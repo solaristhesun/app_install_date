@@ -47,6 +47,8 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+
+    namespace 'com.zemlyanikinmaksim.appInstallDate'
 }
 
 dependencies {
